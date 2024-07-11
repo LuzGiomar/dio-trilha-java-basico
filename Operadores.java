@@ -3,6 +3,23 @@ public class Operadores {
     String nomeCompleto = "LINGUAGEM" + "JAVA";
 
   System.out.printIn(nomeCompleto);
+
+    System.out.pritIn(concatenacao);
+    
+    concatenacao = 1+"1"+1+1;
+
+    System.out.pritIn(concatenacao);
+    
+    concatenacao = 1+"1"+1+"1";
+
+    System.out.pritIn(concatenacao);
+    
+    concatenacao = "1"+1+1+1;
+
+    System.out.pritIn(concatenacao);
+    
+    concatenacao = "1"+(1+1+1);
+    
     
   }
 }
